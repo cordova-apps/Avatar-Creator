@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
-  id          = "com.webdgap.cartoonavatarcreator"
+  id          = "io.github.phonegap-apps.avatarcreator"
   version     = "0.0.1"
   versionCode = "1">
   <name>Cartoon Avatar Creator</name>
   <description>
     Just a simple vector based cartoon avatar creator.
   </description>
-  <author email="mikethedj4@yahoo.com" href="http://michaelsboost.github.io/">
+  <author email="me@we2app.com" href="https://phonegap-apps.github.io/">
     Michael Schwartz
   </author>
 
